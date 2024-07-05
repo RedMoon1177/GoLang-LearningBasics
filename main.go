@@ -15,5 +15,5 @@ func main() {
 
 	// showScore()
 
-	lessons.Lesson09()
+	lessons.Lesson08()
 }
